@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/AutoserviceAdmin111//cd.git'
-    path: .
+    path: k8s
   destination:
     server: 'https://kubernetes.default.svc'
-    namespace: default
+    namespace: default1
